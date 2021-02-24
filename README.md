@@ -1,2 +1,2 @@
-# class-DFA
+# Class-DFA
 Class of an Deterministic finite automaton
